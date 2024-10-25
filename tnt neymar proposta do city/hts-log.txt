@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Oct 2024 16:00:15 at https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml -O1 "C:\Meus Sites\tnt neymar proposta do city" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:00:34	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml)
+16:00:34	Error: 	"Not Found" (404) at link https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/ge.globo.com/busca (from https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml)
+16:00:46	Error: 	"Not Found" (404) at link https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml)
+16:00:46	Error: 	"Not Found" (404) at link https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/POST/ (from https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml)
+16:00:46	Error: 	"Not Found" (404) at link https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/;path=/ (from https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml)
+16:00:46	Error: 	"Not Found" (404) at link https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/e.path[0] (from https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/neymar-comemora-primeiro-jogo-apos-mais-de-um-ano-parado-estou-de-volta.ghtml)
+16:00:51	Warning: 	Unexpected socket error during pre-loop
+16:00:54	Warning: 	Retry after error -4 (Receive Error) at link https://s2-ge.glbimg.com/8IaurOhv1hRytKst_LQF-4nUSTQ=/0x0:1441x964/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/R/a/mtAntfSneFdd1rmoM1PA/agif23101021490143.jpg (from https://ge.globo.com/futebol/futebol-internacional/noticia/2024/10/21/quantos-jogos-neymar-pode-disputar-ate-a-proxima-convocacao-da-selecao-veja.ghtml)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 74 links scanned, 66 files written (15158305 bytes overall), 67 files updated [6460850 bytes received at 161521 bytes/sec], 11220960 bytes transferred using HTTP compression in 29 files, ratio 21%, 1.6 requests per connection
+(6 errors, 2 warnings, 0 messages)

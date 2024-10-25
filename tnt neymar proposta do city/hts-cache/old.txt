@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:58:51	3261/3261	---MCZ	403	error ('Forbidden')	text/html	etag:W/%2225798c379c3105fe99d605a33f4bbea3%22	https://tntsports.com.br/futebolinternacional/Neymar-comenta-sobre-retorno-aos-gramados-Me-sinto-bem-20241021-0019.html	C:/Meus%20Sites/tnt%20neymar%20proposta%20do%20city/tntsports.com.br/futebolinternacional/Neymar-comenta-sobre-retorno-aos-gramados-Me-sinto-bem-20241021-0019.0.delayed	(from )
+15:58:51	1528/1528	---MCZ	403	error ('Forbidden')	text/html	etag:W/%2225798c379c3105fe99d605a33f4bbea3%22	https://tntsports.com.br/robots.txt		(from )
